@@ -7,6 +7,8 @@
 #### 2. Data analysis using SQL queries at Postgresql
 
 - top-10 countries that produced the largest variety (number) of kind (family) cheeses
-
+<p align="center">
+  <img width="300" height="200" src="https://github.com/archd3sai/Instacart-Market-Basket-Analysis/blob/master/Plots/dow.png">
+</p>
  
   
