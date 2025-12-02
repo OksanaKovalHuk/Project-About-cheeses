@@ -1,10 +1,12 @@
 # Project-About-cheeses
 
-## Goal project: explore diversity of types of cheeses, country producers of cheeses before will be open new shop.
+## Мета проекту: дослідження різномаїття видів сирів різних виробників та країн перед відкриттям мережи магазинів "Сирник"
 
-### In this project to be use 2 tables [Cheese](https://www.kaggle.com/datasets/joebeachcapital/cheese) and [World Cheese Awards](https://www.kaggle.com/datasets/ericsims/world-cheese-awards-worlds-cheesiest-dataset) from Kaggle.
-#### 1. Preparation of data-cleaning, generating duplicates, filling empty cells with NA values ​​- no data in Googlesheets.
-#### 2. Data analysis using SQL queries at Postgresql
+
+### Для дослідження обрано 2 таблиці  [Cheese](https://www.kaggle.com/datasets/joebeachcapital/cheese) 
+та [World Cheese Awards](https://www.kaggle.com/datasets/ericsims/world-cheese-awards-worlds-cheesiest-dataset) з ресурсу Kaggle.
+#### 1. З використанням Googlesheets виконано загальне ознайомленя з данними, вилучення дублікатів, заміщення Null на NA - відсутність даних.
+#### 2. Пошук цікавих інсайтів виконувався за домомогою SQL-запитів у СУБД Postgresql
 
 - top-10 countries that produced the largest variety (number) of kind (family) cheeses
 <p align="center">
