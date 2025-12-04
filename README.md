@@ -77,7 +77,35 @@
   <img width="400" height="1000" src="https://github.com/OksanaKovalHuk/Project-About-cheeses/blob/main/Plot/%D0%9A%D1%96%D0%BB%D1%8C%D0%BA%D1%96%D1%81%D1%82%D1%8C%20%D0%BD%D0%B0%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%20%D0%BF%D0%BE%20%D0%BA%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D1%96%D1%8F%D0%BC%20%D1%82%D0%B0%20%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B0%D0%BC.png">
 </p>
 
-  
+### 3. Візуалізація з використанням Power BI
 
-### 3. Візуалізація у Power BI
- - 
+- на головній сторінці відображені картки з ключовими значенями: кількість країн, кількість виробників, кількість найменувань сирів, кількість різновидів сирів, які досліджувалися. Також відображені графіки, які візуалізують сировину(молоко), співвідношення країн до кількості найменувань сирів та рейтингу. У якості фільтрів: веганські та вегетаріанські сири.
+ <p align="center">
+  <img width="800" height="800" src="https://github.com/OksanaKovalHuk/Project-About-cheeses/blob/main/Plot/dashbord%20main%20page.png">
+</p>  
+
+-  побудовано структурне дерево, яке відображає інформацію по місцезнаходження виробника сиру
+<p align="center">
+  <img width="800" height="800" src="https://github.com/OksanaKovalHuk/Project-About-cheeses/blob/main/Plot/Dashbord%20Location%20ihfo.png">
+</p>  
+   - також структурне дерево, що відображає характеристики пакування та вкусові властивості
+  <p align="center">
+  <img width="800" height="800" src="https://github.com/OksanaKovalHuk/Project-About-cheeses/blob/main/Plot/Dashbord%20Taste%20info.png">
+</p>  
+
+- відображена карта світу, на якій позначени країни-виробники
+ <p align="center">
+  <img width="800" height="800" src="https://github.com/OksanaKovalHuk/Project-About-cheeses/blob/main/Plot/Dashbord%20Map%20cheese.png">
+</p>  
+
+- відображені топ-показники по різним категоріям (країни, виробники, сировина, рейтинг)
+ <p align="center">
+  <img width="800" height="800" src="https://github.com/OksanaKovalHuk/Project-About-cheeses/blob/main/Plot/dashbord%20Top.png">
+</p>  
+
+- більш детальна інформація по нагородаму розрізі країн зведена у таблицю
+   <p align="center">
+  <img width="800" height="800" src="https://github.com/OksanaKovalHuk/Project-About-cheeses/blob/main/Plot/Dashbord%20Info%20awards%20by%20country.png">
+</p>  
+
+- можливо переглянути інтерактивний [Dashbord Cheese](https://drive.google.com/file/d/1x7qherTocLe0rqwkXLpQGllwXjA9jJwJ/view?usp=drive_link)
